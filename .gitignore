@@ -3,4 +3,5 @@ __pycache__
 myenv
 sparkling
 db.sqlite3
+topsec
 .DS_Store
